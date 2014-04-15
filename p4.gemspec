@@ -1,5 +1,5 @@
 Gem::Specification.new do |gem|
-  gem.name               = 'P4Ruby'
+  gem.name               = 'P4Ruby-mingwx86'
   gem.version            = '2014.1'
 
   gem.author = ['Norbert Csibra']
